@@ -1,2 +1,2 @@
-Git will be  a version control system.
+Git will be  a distributed version control system.
 Git will be  free software.
